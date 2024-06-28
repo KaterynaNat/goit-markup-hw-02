@@ -1,5 +1,5 @@
 .body {
-    font-family: "roboto", sans-serif;
+  font-family: "roboto", sans-serif;
   color: #434455;
   background-color: #ffffff;
 }
@@ -31,12 +31,12 @@
   font-style: normal;
 }
 .header-list {
-  font-family: "roboto", sans-serif;
-font-weight: 500;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: #2e2f42;
+ font-family: "roboto", sans-serif;
+ font-weight: 500;
+ font-size: 16px;
+ line-height: 1.5;
+  letter-spacing: 0.02em;
+ color: #2e2f42;
 }
 .header-list:hover,
 .header-list:focus {
@@ -44,7 +44,7 @@ color: #2e2f42;
 }
 
 .contacts-text {
-  font-family: "roboto", sans-serif;
+   font-family: "roboto", sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -61,15 +61,15 @@ background: #2e2f42;
 }
 .solutions-text {
   font-family: "roboto", sans-serif;
-font-weight: 700;
-font-size: 56px;
-line-height: 1.7;
-letter-spacing: 0.02em;
-text-align: center;
-color: #fff;
+ font-weight: 700;
+ font-size: 56px;
+  line-height: 1.07;
+ letter-spacing: 0.02em;
+ text-align: center;
+ color: #fff;
 }
 .solutions-button {
-  font-family: "roboto", sans-serif;
+   font-family: "roboto", sans-serif;
     background: #4d5ae5;
     color: #ffffff;
     cursor: pointer;
@@ -101,6 +101,9 @@ color: #2e2f42;
   }
   .team-header {
     background: #f4f4fd;
+  }
+  .team-list {
+    background-color: #FFFFFF
   }
   .team-text {
     font-family: "Roboto", sans-serif;
