@@ -1,5 +1,5 @@
 .body {
-  font-family: "roboto", sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #ffffff;
 }
@@ -31,7 +31,7 @@
   font-style: normal;
 }
 .header-list {
- font-family: "roboto", sans-serif;
+ font-family: "Roboto", sans-serif;
  font-weight: 500;
  font-size: 16px;
  line-height: 1.5;
@@ -44,7 +44,7 @@
 }
 
 .contacts-text {
-   font-family: "roboto", sans-serif;
+   font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -60,7 +60,7 @@
 background: #2e2f42;
 }
 .solutions-text {
-  font-family: "roboto", sans-serif;
+  font-family: "Roboto", sans-serif;
  font-weight: 700;
  font-size: 56px;
   line-height: 1.07;
@@ -69,7 +69,7 @@ background: #2e2f42;
  color: #fff;
 }
 .solutions-button {
-   font-family: "roboto", sans-serif;
+   font-family: "Roboto", sans-serif;
     background: #4d5ae5;
     color: #ffffff;
     cursor: pointer;
