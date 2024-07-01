@@ -70,6 +70,7 @@ background: #2e2f42;
  color: #fff;
 }
 .solutions-button {
+  font-family: "Roboto", sans-serif;
     background: #4d5ae5;
     color: #ffffff;
     cursor: pointer;
